@@ -1,0 +1,2 @@
+# imgaeQualityAssessmentQUICK
+用于简单对比不同相机在拍摄相同主体下的一些基本亮度灰度信息噪声对比
