@@ -39,6 +39,8 @@ You can install the dependencies with:
 
 ```bash
 pip install opencv-python numpy scikit-image matplotlib
+```
+
 
 🚀 Usage
 Modify the image_folder and ref_image_path paths in the if __name__ == '__main__': block at the bottom of brightness_analysis.py.
