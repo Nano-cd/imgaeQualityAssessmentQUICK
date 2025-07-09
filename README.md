@@ -1,6 +1,3 @@
-Of course! Here is a comprehensive `README.md` file that explains both Python scripts, their purpose, how to set them up, and how to use them.
-
----
 
 # Image Brightness and Uniformity Analysis Toolkit
 
